@@ -7,5 +7,6 @@
     </head>
     <body>
         <h1>Index de Cristina</h1>
+        <a href="index.php">Enlace a index Javier</a>
     </body>
 </html>     
